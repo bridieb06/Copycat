@@ -33,6 +33,10 @@ a {
     text-align: center;
 }
 
+.not-allowed {
+    cursor: not-allowed;
+}
+
 h1,
 h2 {
   margin: 20px;
